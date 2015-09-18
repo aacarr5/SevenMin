@@ -1,0 +1,14 @@
+== SevenMin
+
+**This app is the collective creation between the idea of Denzell Williams and Andrew Carr. All code unless otherwise stated is conceptualized, implemented, and deployed by Andrew Carr. 
+
+* A user of SevenMin can find other people to go on a 7 minute date with. 
+
+* A user will be able to create an account that shows their image
+
+* Each user will have questions to presceen other candidates. 
+
+User Stories...
+-- I want to be able to create an account
+-- I want to be able to propose myself to interact with other users
+
