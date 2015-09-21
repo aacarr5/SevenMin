@@ -5,6 +5,7 @@ class CreateUsers < ActiveRecord::Migration
     	t.string :last_name, presence: true
     	t.string :email, presence: true
     	t.string :instagram_handle
+    	t.date :birthday, presence: true
 
     	t.timestamp null:false
     end
